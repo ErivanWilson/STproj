@@ -1,9 +1,0 @@
-/Application/venv
-*.pyc
-.idea
-.code
-*testresults
-.coverage
-.pytest_cache
-Tests/chromedriver
-functionaltestresults
